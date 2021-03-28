@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ISABELLAKORDEI
 - 👀 I’m interested in security , Web development and more 
-- 🌱 I’m currently learning Web development and machine language 
+- 🌱 I’m currently learning Web development and machine language Algorithms 
 - 📫 How to reach me 
- .email-Isabellakordei@gmail.com 
+  My email-Isabellakordei@gmail.com 
  .twitter-@Isabeyllakordei
 
 <!---
