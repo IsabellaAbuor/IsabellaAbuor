@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ISABELLAKORDEI
-- 👀 I’m interested in many things including electronics, security and web development.
-- 🌱 I’m currently learning CG with Open GL.
+- 👀 I’m interested in many things including electronics, AI and Security.
+- 🌱 I’m currently learning Compiler Design
 - 📫 How to reach me 
   My email-Isabellakordei@gmail.com 
- .twitter-@Kord3ii
+ .twitter-@IsabellaKordeii
 
 <!---
 ISABELLAKORDEI/ISABELLAKORDEI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
