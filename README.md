@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ISABELLAKORDEI
 - 👀 I’m interested in Electronics,IOT and Network Security.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Data Analytics 
 - 📫 How to reach me 
   My email-IsabellaMabuor@gmail.com
  .twitter-@IsabellaKordeii
