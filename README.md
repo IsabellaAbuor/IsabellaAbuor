@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ISABELLAKORDEI
-- 👀 I’m interested in many things including electronics, AI and Network Security.
-- 🌱 I’m currently learning Compiler Design
+- 👀 I’m interested in Electronics,IOT and Network Security.
+- 🌱 I’m currently learning Python
 - 📫 How to reach me 
-  My email-Isabellakordei@gmail.com  or IsabellaMabuor@gmail.com
+  My email-IsabellaMabuor@gmail.com
  .twitter-@IsabellaKordeii
 
 <!---
