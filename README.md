@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ISABELLAKORDEI
+👋 **Hi there, I’m Isabella Abuor**
 - 👀 I’m interested in Electronics,IOT and Network Security.
 - 🌱 I’m currently learning Data Analytics 
-- 📫 How to reach me 
-  My email-IsabellaMabuor@gmail.com
- .twitter-@IsabellaKordeii
+- 📫 How to reach me My email-IsabellaMabuor@gmail.com
+- 🐣 Twitter-@IsabellaKordeii
+- ✨ Pronouns:she/her/they 
 
 <!---
 ISABELLAKORDEI/ISABELLAKORDEI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
