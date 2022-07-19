@@ -1,5 +1,5 @@
 👋 **Hi there, I’m Isabella Abuor**
-- 👀 I’m interested in Electronics,IOT and Network Security.
+- 👀 I’m interested in Artificial Intelligence,IOT and Network Security.
 - 🌱 I’m currently a computer science student at the University of Nairobi  
 - 📫 How to reach me My email-IsabellaMabuor@gmail.com
 - 🐣 Twitter-@IsabellaKordeii
