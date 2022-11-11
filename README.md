@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/isabellakordeii" target="blank"><img src="https://img.shields.io/twitter/follow/isabellakordeii?logo=twitter&style=for-the-badge" alt="isabellakordeii" /></a> </p>
 
-- 🔭 I’m currently Learning **Devops**
+- 🔭 I’m currently Learning **Flutter**
 
 - 🌱 I’m currently a **computer science student at the University of Nairobi**
 
