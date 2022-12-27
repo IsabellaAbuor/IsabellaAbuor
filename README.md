@@ -2,7 +2,7 @@
 <h3 align="center">I’m interested in Artificial Intelligence,Security, and Cloud Computing.</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif?format=750w">
 
-<p align="left"> <a href="https://twitter.com/isabellakordeii" target="blank"><img src="https://img.shields.io/twitter/follow/isabellakordeii?logo=twitter&style=for-the-badge" alt="isabellakordeii" /></a> </p>
+<p align="left"> <a href="https://twitter.com/isabellaabuor" target="blank"><img src="https://img.shields.io/twitter/follow/isabellakordeii?logo=twitter&style=for-the-badge" alt="isabellaabuor" /></a> </p>
 
 - 🔭 I’m currently Learning **Flutter**
 
