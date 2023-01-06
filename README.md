@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif?format=750w">
 
 
-- 🔭 I’m currently Learning **Flutter**
+- 🔭 I’m currently Learning **Angular**
 
 - 🌱 I’m currently a **computer science student at the University of Nairobi**
 
