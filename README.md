@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Learning **WebRTC**
 
-- 🌱 I’m currently a **computer science graduand at the University of Nairobi**
+- 🌱 I’m currently a **Systems Engineer - Cybersecurity**
 
 - 📫 How to reach me **Isabellamabuor@gmail.com**
 
